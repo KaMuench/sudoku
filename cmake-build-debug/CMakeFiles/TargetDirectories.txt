@@ -1,0 +1,4 @@
+C:/Users/muenc/Documents/GitRepos/sudoku/cmake-build-debug/CMakeFiles/Aufgabe_X.dir
+C:/Users/muenc/Documents/GitRepos/sudoku/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/muenc/Documents/GitRepos/sudoku/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/muenc/Documents/GitRepos/sudoku/cmake-build-debug/CMakeFiles/Aufgabe_X_autogen.dir
