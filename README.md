@@ -3,7 +3,7 @@
 <img src="https://github.com/KaMuench/sudoku/blob/main/assets/img/sudoku.jpg" alt="sudoku image" width="300">
 
 The main features of the program are:
-- inserting numbers in a 9x9 grid using the 1-9 keyboard keys
+- inserting numbers in a 9x9 grid, by using the 1-9 keyboard keys
 - choosing game mode out of [EASY,MEDIUM,HARD]
 - toogling hints for empty fields
-- remove number from fiel, by inserting 0
+- remove a inserted number from field, by inserting 0
